@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **HTML | CSS | C**
-
 - 📫 How to reach me **sahildavkhar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
