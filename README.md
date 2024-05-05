@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web/App Development**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Dev | Graphic | UI**
 
 - 📫 How to reach me **sahildavkhar@gmail.com**
 
