@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Davkhar</h1>
-<h3 align="center">Learner | Web Development | App Development</h3>
+<h3 align="center">Learn | Design | Develop | Explore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildavkhar&label=Profile%20views&color=0e75b6&style=flat" alt="sahildavkhar" /> </p>
 
