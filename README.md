@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildavkhar&label=Profile%20views&color=0e75b6&style=flat" alt="sahildavkhar" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
-
-- 💬 Ask me about **HTML | CSS | C**
 
 - 📫 How to reach me **sahildavkhar@gmail.com**
 
