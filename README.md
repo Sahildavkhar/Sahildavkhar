@@ -1,8 +1,5 @@
-Hi 👋 My name is Sahil Davkhar
-==============================
-
-A passionate Software developer from India
-------------------------------------------
+<h1 align="center">Hi 👋 My name is Sahil Davkhar</h1>
+<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sahildavkhar.netlify.app/](http://sahildavkhar.netlify.app/)
